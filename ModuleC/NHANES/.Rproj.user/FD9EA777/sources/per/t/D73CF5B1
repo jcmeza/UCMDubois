@@ -1,0 +1,27 @@
+{
+    "id": "D73CF5B1",
+    "path": "~/MyProjects/UCMDubois/ModuleC/NHANES/NHANES-DataBrief303.R",
+    "project_path": "NHANES-DataBrief303.R",
+    "type": "r_source",
+    "hash": "1513407295",
+    "contents": "",
+    "dirty": true,
+    "created": 1694393686820.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "76,14",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1694393991,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1694394914986,
+    "read_only": false,
+    "read_only_alternatives": []
+}
